@@ -136,9 +136,12 @@ https://github.com/DonutGeek/jl-git-releases/releases/latest/download/latest.jso
 
 ## 版权与许可
 
-- **产品名称**：鲸灵Git  
-- **版权所有**：Copyright © 2026 DonutGeek  
-- **组织 / 发布方**：[DonutGeek](https://github.com/DonutGeek)  
+<p align="center">
+  <img src="assets/app-icon-256.png" alt="" width="48" height="48" /><br />
+  <strong>鲸灵Git</strong><br />
+  Copyright © 2026 DonutGeek<br />
+  发布方：<a href="https://github.com/DonutGeek">DonutGeek</a>
+</p>
 
 本发布仓的安装包与清单文件由 DonutGeek 提供，供用户下载与客户端线上升级使用。源码许可条款以开发仓内 `LICENSE`（若有）为准；若开发仓为私有，则以产品内「关于」及官方说明为准。
 
@@ -163,5 +166,6 @@ https://github.com/DonutGeek/jl-git-releases/releases/latest/download/latest.jso
 ---
 
 <p align="center">
-  <sub>鲸灵Git · Made with care by DonutGeek · Copyright © 2026 DonutGeek</sub>
+  <img src="assets/app-icon-256.png" alt="" width="32" height="32" /><br />
+  <sub><strong>鲸灵Git</strong> · Made with care by DonutGeek<br />Copyright © 2026 DonutGeek · All rights reserved</sub>
 </p>
