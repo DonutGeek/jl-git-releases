@@ -124,20 +124,13 @@ https://github.com/DonutGeek/jl-git-releases/releases/latest/download/latest.jso
 
 ## 赞助（请喝咖啡）
 
-<p align="center">
-如果鲸灵Git 对你有帮助，欢迎请作者喝杯咖啡。<br />
-扫码备注可选「鲸灵Git」——感谢支持。
-</p>
+如果鲸灵Git 对你有帮助，欢迎请作者喝杯咖啡。扫码备注可选「鲸灵Git」——感谢支持。
 
-<p align="center">
-  <img src="assets/wechat-pay.jpg" alt="微信支付收款码" width="280" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/alipay.jpg" alt="支付宝收款码" width="280" />
-</p>
+| 微信支付 | 支付宝 |
+|:--------:|:------:|
+| ![微信支付收款码](assets/wechat-pay.jpg) | ![支付宝收款码](assets/alipay.jpg) |
 
-<p align="center">
-  <sub>左：微信支付 · 右：支付宝 · 赞助为自愿，不绑定功能解锁或优先支持承诺</sub>
-</p>
+赞助为自愿支持，**不绑定**功能解锁或优先技术支持承诺。
 
 ---
 
