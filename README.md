@@ -1,8 +1,46 @@
-# 鲸灵Git
+<p align="center">
+  <img src="assets/app-icon-256.png" alt="鲸灵Git" width="128" height="128" />
+</p>
 
-**现代、轻量的跨平台 Git 桌面客户端。**
+<h1 align="center">鲸灵Git</h1>
 
-面向开发者日常本地仓库工作流：多仓管理、状态与暂存、分支、提交与同步、Diff / 历史、冲突解决，以及可选的 AI 辅助（鲸灵）。基于 **Tauri 2 + React + TypeScript**，追求 **克制、清晰、快**——气质参考 GitHub Desktop、SourceGit、Linear 与 VS Code，而不是视觉炫技或全能 DevOps 控制台。
+<p align="center">
+  <strong>现代、轻量的跨平台 Git 桌面客户端</strong>
+</p>
+
+<p align="center">
+  多仓管理 · 变更与提交 · 分支与同步 · Diff / 历史 · 冲突解决 · 可选 AI（鲸灵）
+</p>
+
+<p align="center">
+  <a href="https://github.com/DonutGeek/jl-git-releases/releases/latest"><img src="https://img.shields.io/github/v/release/DonutGeek/jl-git-releases?label=Latest&style=flat-square" alt="Latest release" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-black?style=flat-square" alt="macOS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Windows-x64-blue?style=flat-square" alt="Windows" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux-AppImage-orange?style=flat-square" alt="Linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Built%20with-Tauri%202-24C8DB?style=flat-square" alt="Tauri" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DonutGeek/jl-git-releases/releases/latest"><strong>下载最新版</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#支持的平台">平台说明</a>
+  &nbsp;·&nbsp;
+  <a href="#赞助请喝咖啡">赞助</a>
+  &nbsp;·&nbsp;
+  <a href="#版权与许可">版权</a>
+</p>
+
+<p align="center">
+  <sub>Copyright © 2026 DonutGeek · All rights reserved</sub>
+</p>
+
+---
+
+面向开发者日常本地仓库工作流。基于 **Tauri 2 + React + TypeScript**，追求 **克制、清晰、快**——气质参考 GitHub Desktop、SourceGit、Linear 与 VS Code，而不是视觉炫技或全能 DevOps 控制台。
 
 > **本仓库职责**  
 > [jl-git-releases](https://github.com/DonutGeek/jl-git-releases) **仅托管**安装包与线上升级清单（`latest.json`）。  
@@ -16,7 +54,7 @@
 
 - **专注本地 Git**：打开仓库、看清改动、提交与同步，路径短、反馈快  
 - **少打断**：用可视化完成高频操作，减少在终端与编辑器之间来回切上下文  
-- **可预期**：约定清晰、分层稳定，后续 Diff、Worktree、托管集成与 AI 可以长在同一骨架上，而不推翻重来  
+- **可预测**：约定清晰、分层稳定，后续 Diff、Worktree、托管集成与 AI 可以长在同一骨架上，而不推翻重来  
 - **体积与性能克制**：桌面壳用 Tauri，安装包与内存占用尽量可控  
 
 **非目标**：替代 IDE、成为 CI/CD 控制台、在应用内重实现完整 Git 对象数据库。
@@ -86,21 +124,31 @@ https://github.com/DonutGeek/jl-git-releases/releases/latest/download/latest.jso
 
 ## 赞助（请喝咖啡）
 
-如果鲸灵Git 对你有帮助，欢迎请作者喝杯咖啡。扫码备注可选「鲸灵Git」——感谢支持。
+<p align="center">
+如果鲸灵Git 对你有帮助，欢迎请作者喝杯咖啡。<br />
+扫码备注可选「鲸灵Git」——感谢支持。
+</p>
 
-| 微信支付 | 支付宝 |
-|:--------:|:------:|
-| ![微信支付收款码](assets/wechat-pay.jpg) | ![支付宝收款码](assets/alipay.jpg) |
+<p align="center">
+  <img src="assets/wechat-pay.jpg" alt="微信支付收款码" width="280" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/alipay.jpg" alt="支付宝收款码" width="280" />
+</p>
 
-赞助为自愿支持，**不绑定**功能解锁或优先技术支持承诺。
+<p align="center">
+  <sub>左：微信支付 · 右：支付宝 · 赞助为自愿，不绑定功能解锁或优先支持承诺</sub>
+</p>
 
 ---
 
 ## 版权与许可
 
-- **产品名称**：鲸灵Git  
-- **版权所有**：Copyright © 2026 DonutGeek  
-- **组织 / 发布方**：[DonutGeek](https://github.com/DonutGeek)  
+<p align="center">
+  <img src="assets/app-icon-256.png" alt="" width="48" height="48" /><br />
+  <strong>鲸灵Git</strong><br />
+  Copyright © 2026 DonutGeek<br />
+  发布方：<a href="https://github.com/DonutGeek">DonutGeek</a>
+</p>
 
 本发布仓的安装包与清单文件由 DonutGeek 提供，供用户下载与客户端线上升级使用。源码许可条款以开发仓内 `LICENSE`（若有）为准；若开发仓为私有，则以产品内「关于」及官方说明为准。
 
@@ -125,5 +173,6 @@ https://github.com/DonutGeek/jl-git-releases/releases/latest/download/latest.jso
 ---
 
 <p align="center">
-  <sub>鲸灵Git · Made with care by DonutGeek · Copyright © 2026</sub>
+  <img src="assets/app-icon-256.png" alt="" width="32" height="32" /><br />
+  <sub><strong>鲸灵Git</strong> · Made with care by DonutGeek<br />Copyright © 2026 DonutGeek · All rights reserved</sub>
 </p>
